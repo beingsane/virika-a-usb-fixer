@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Users\Kamran Ahmed\Desktop\Virika\Newly Pub .net 4\|C:\Users\Kamran Ahmed\Desktop\Virika\Newly Pub .net 3.5\|C:\Users\Kamran Ahmed\Desktop\Virika\Newly Pub\|C:\Users\Kamran Ahmed\Desktop\Virika\|publish\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory>http://www.virika.netii.net</SupportUrlHistory>
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>
